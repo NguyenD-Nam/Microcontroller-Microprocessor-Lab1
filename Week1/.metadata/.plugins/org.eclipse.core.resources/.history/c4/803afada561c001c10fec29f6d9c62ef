@@ -104,7 +104,7 @@ int main(void)
 	HAL_GPIO_WritePin (LED_5_YELLOW_GPIO_Port, LED_5_YELLOW_Pin, GPIO_PIN_RESET);
 	HAL_GPIO_WritePin (LED_6_GREEN_GPIO_Port, LED_6_GREEN_Pin, GPIO_PIN_RESET);
 
-	// Exercise 4: Count up
+	// Exercise 4
 //	counter = 0;
 //	while(counter < 5){
 //		HAL_GPIO_WritePin (LED_1_RED_GPIO_Port, LED_1_RED_Pin, GPIO_PIN_SET);
@@ -138,7 +138,7 @@ int main(void)
 //	HAL_GPIO_WritePin (LED_3_GREEN_GPIO_Port, LED_3_GREEN_Pin, GPIO_PIN_RESET);
 //	HAL_GPIO_WritePin (LED_4_RED_GPIO_Port, LED_4_RED_Pin, GPIO_PIN_RESET);
 
-	// Exercise 5: Count down
+	// Exercise 5
 	counter = 4;
 	while(counter >= 0){
 		HAL_GPIO_WritePin (LED_1_RED_GPIO_Port, LED_1_RED_Pin, GPIO_PIN_SET);
