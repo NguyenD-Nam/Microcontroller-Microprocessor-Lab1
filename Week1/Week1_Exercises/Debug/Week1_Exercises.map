@@ -45,6 +45,21 @@ Discarded input sections
  .comment       0x0000000000000000       0x54 ./Core/Src/led_display.o
  .ARM.attributes
                 0x0000000000000000       0x33 ./Core/Src/led_display.o
+ .group         0x0000000000000000        0xc ./Core/Src/ledmatrix_display.o
+ .text          0x0000000000000000        0x0 ./Core/Src/ledmatrix_display.o
+ .data          0x0000000000000000        0x0 ./Core/Src/ledmatrix_display.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/ledmatrix_display.o
+ .debug_info    0x0000000000000000       0x21 ./Core/Src/ledmatrix_display.o
+ .debug_abbrev  0x0000000000000000       0x13 ./Core/Src/ledmatrix_display.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/Src/ledmatrix_display.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/Src/ledmatrix_display.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/ledmatrix_display.o
+ .debug_line    0x0000000000000000       0x40 ./Core/Src/ledmatrix_display.o
+ .debug_str     0x0000000000000000     0x2d88 ./Core/Src/ledmatrix_display.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/ledmatrix_display.o
+ .ARM.attributes
+                0x0000000000000000       0x33 ./Core/Src/ledmatrix_display.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
@@ -1853,6 +1868,7 @@ LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtbegin.o
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
 LOAD ./Core/Src/led_display.o
+LOAD ./Core/Src/ledmatrix_display.o
 LOAD ./Core/Src/main.o
 LOAD ./Core/Src/stm32f1xx_hal_msp.o
 LOAD ./Core/Src/stm32f1xx_it.o
