@@ -117,6 +117,10 @@ int main(void)
 		seven_segment_led_driver();
 		HAL_Delay(1000);
 	}
+
+ //  Ex4
+	test_seven_segment_led(counter%10);
+	counter++;
   }
   /* USER CODE END 3 */
 }

@@ -61,3 +61,8 @@ void seven_segment_led_driver(void){
 			HAL_GPIO_WritePin(SEV_SEG_6_GPIO_Port, SEV_SEG_6_Pin, SET);
 		}
 }
+void test_seven_segment_led(int counter){
+	update_seven_segment_led_buffer(counter);
+	seven_segment_led_driver();
+	HAL_Delay(1000);
+}

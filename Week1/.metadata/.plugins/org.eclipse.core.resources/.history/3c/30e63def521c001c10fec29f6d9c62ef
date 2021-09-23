@@ -19,7 +19,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "led_display.h"
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -97,26 +97,24 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	counter = 0;
-	while(counter < 5){
-		update_seven_segment_led_buffer(counter++);
-		seven_segment_led_driver();
-		HAL_Delay(1000);
-	}
+		while(counter <= 5){
+			update_seven_segment_led_buffer(counter++);
+			seven_segment_led_driver();
+			HAL_Delay(1000);
+		}
+		counter = 0;
 
-	counter = 0;
-	while(counter < 2){
-		update_seven_segment_led_buffer(counter++);
-		seven_segment_led_driver();
-		HAL_Delay(1000);
-	}
-
-	counter = 0;
-	while(counter < 3){
-		update_seven_segment_led_buffer(counter++);
-		seven_segment_led_driver();
-		HAL_Delay(1000);
-	}
+		while(counter <= 5){
+			if(counter >= 3){
+				counter = counter-3;
+			}
+			update_seven_segment_led_buffer(counter++);
+			seven_segment_led_driver();
+			HAL_Delay(1000);
+		}
+ //  Ex4
+	   test_seven_segment_led(counter%10);
+	   counter++;
   }
   /* USER CODE END 3 */
 }
