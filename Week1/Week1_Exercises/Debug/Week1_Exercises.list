@@ -342,7 +342,7 @@ int main(void)
 //	HAL_GPIO_WritePin (LED_3_GREEN_GPIO_Port, LED_3_GREEN_Pin, GPIO_PIN_RESET);
 //	HAL_GPIO_WritePin (LED_4_RED_GPIO_Port, LED_4_RED_Pin, GPIO_PIN_RESET);
 
-	// Exercise 5
+	// Exercise 5: Count down
 	counter = 4;
  80002d2:	2304      	movs	r3, #4
  80002d4:	607b      	str	r3, [r7, #4]
