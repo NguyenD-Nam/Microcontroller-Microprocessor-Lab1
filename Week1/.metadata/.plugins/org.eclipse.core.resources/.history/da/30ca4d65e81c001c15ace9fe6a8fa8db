@@ -57,8 +57,8 @@ void checksetNOC(void){
 	}
 }
 
-// Exercise 9
-void clearNumberOnClock(int num){
+// Exercise 8
+void cleartNumberOnClock(int num){
 	setAllClock();
 	ledmatrixVals[num]=0;
 	update_led_matrix_buffer();

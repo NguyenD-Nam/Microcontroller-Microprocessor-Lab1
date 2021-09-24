@@ -50,20 +50,20 @@ void setNumberOnClock(int num){
 	ledmatrixVals[num]=1;
 	update_led_matrix_buffer();
 }
-void checksetNOC(void){
+void checksNOC(void){
 	for(int i = 0; i < NUMBER_OF_LEDS; i++){
 		setNumberOnClock(i);
 		HAL_Delay(1000);
 	}
 }
 
-// Exercise 9
-void clearNumberOnClock(int num){
+// Exercise 8
+void cleartNumberOnClock(int num){
 	setAllClock();
 	ledmatrixVals[num]=0;
 	update_led_matrix_buffer();
 }
-void checkclearNOC(void){
+void checkcNOC(void){
 	for(int i = 0; i < NUMBER_OF_LEDS; i++){
 		clearNumberOnClock(i);
 		HAL_Delay(1000);
