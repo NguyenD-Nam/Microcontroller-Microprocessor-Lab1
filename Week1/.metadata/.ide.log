@@ -522,3 +522,235 @@
 2021-09-23 15:41:53,493 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2852mS.
 2021-09-23 15:41:53,494 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 1mS.
 2021-09-23 15:41:53,498 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 15:51:01,830 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 387123144 Bytes (1034944512)
+2021-09-23 15:51:04,024 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 403900360 Bytes (1034944512)
+2021-09-23 15:51:05,659 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 471088088 Bytes (1034944512)
+2021-09-23 15:51:05,973 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2021-09-23 15:51:05,973 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2021-09-23 15:51:05,974 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2021-09-23 15:51:05,974 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2021-09-23 15:51:05,975 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2021-09-23 15:51:06,213 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp_save
+2021-09-23 15:51:06,270 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp
+2021-09-23 15:51:06,301 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp_save
+2021-09-23 15:51:06,362 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp
+2021-09-23 15:51:06,397 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c_save
+2021-09-23 15:51:06,492 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c
+2021-09-23 15:51:06,501 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h_save
+2021-09-23 15:51:06,571 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h
+2021-09-23 15:51:06,589 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c_save
+2021-09-23 15:51:06,680 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c
+2021-09-23 15:51:06,684 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp_save
+2021-09-23 15:51:06,747 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp
+2021-09-23 15:51:06,762 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-09-23 15:51:06,854 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h
+2021-09-23 15:51:06,899 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h_save
+2021-09-23 15:51:06,990 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h
+2021-09-23 15:51:07,000 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c_save
+2021-09-23 15:51:07,125 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c
+2021-09-23 15:51:08,298 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 172mS.
+2021-09-23 15:51:08,302 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2021-09-23 15:51:08,694 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2021-09-23 15:51:10,814 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2512mS.
+2021-09-23 15:51:10,815 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 15:51:10,819 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 1mS.
+2021-09-23 15:57:16,586 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 301988616 Bytes (1065353216)
+2021-09-23 15:57:18,517 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 319162096 Bytes (1065353216)
+2021-09-23 15:57:20,010 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 356386544 Bytes (1065353216)
+2021-09-23 15:57:20,339 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2021-09-23 15:57:20,339 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2021-09-23 15:57:20,339 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2021-09-23 15:57:20,339 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2021-09-23 15:57:20,339 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2021-09-23 15:57:20,667 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp_save
+2021-09-23 15:57:20,729 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp
+2021-09-23 15:57:20,745 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp_save
+2021-09-23 15:57:20,823 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp
+2021-09-23 15:57:20,854 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c_save
+2021-09-23 15:57:20,932 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c
+2021-09-23 15:57:20,948 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h_save
+2021-09-23 15:57:21,011 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h
+2021-09-23 15:57:21,026 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c_save
+2021-09-23 15:57:21,120 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c
+2021-09-23 15:57:21,120 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp_save
+2021-09-23 15:57:21,182 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp
+2021-09-23 15:57:21,198 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-09-23 15:57:21,288 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h
+2021-09-23 15:57:21,331 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h_save
+2021-09-23 15:57:21,404 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h
+2021-09-23 15:57:21,419 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c_save
+2021-09-23 15:57:21,544 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c
+2021-09-23 15:57:22,736 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 204mS.
+2021-09-23 15:57:22,736 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2021-09-23 15:57:23,157 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2021-09-23 15:57:25,120 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2384mS.
+2021-09-23 15:57:25,120 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 15:57:25,136 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 15:57:58,461 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 464576008 Bytes (1065353216)
+2021-09-23 15:57:59,975 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 481221664 Bytes (1065353216)
+2021-09-23 15:58:01,486 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 549313968 Bytes (1065353216)
+2021-09-23 15:58:01,810 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2021-09-23 15:58:01,810 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2021-09-23 15:58:01,810 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2021-09-23 15:58:01,810 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2021-09-23 15:58:01,810 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2021-09-23 15:58:02,152 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp_save
+2021-09-23 15:58:02,199 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp
+2021-09-23 15:58:02,230 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp_save
+2021-09-23 15:58:02,299 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp
+2021-09-23 15:58:02,322 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c_save
+2021-09-23 15:58:02,416 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c
+2021-09-23 15:58:02,416 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h_save
+2021-09-23 15:58:02,479 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h
+2021-09-23 15:58:02,510 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c_save
+2021-09-23 15:58:02,588 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c
+2021-09-23 15:58:02,588 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp_save
+2021-09-23 15:58:02,650 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp
+2021-09-23 15:58:02,666 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-09-23 15:58:02,744 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h
+2021-09-23 15:58:02,791 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h_save
+2021-09-23 15:58:02,869 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h
+2021-09-23 15:58:02,869 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c_save
+2021-09-23 15:58:02,994 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c
+2021-09-23 15:58:04,123 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 172mS.
+2021-09-23 15:58:04,123 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2021-09-23 15:58:04,500 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2021-09-23 15:58:06,553 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2430mS.
+2021-09-23 15:58:06,553 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 15:58:06,553 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 16:08:14,406 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 396222976 Bytes (1065353216)
+2021-09-23 16:08:15,808 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 412322216 Bytes (1065353216)
+2021-09-23 16:08:17,864 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 504074664 Bytes (1065353216)
+2021-09-23 16:08:18,304 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2021-09-23 16:08:18,304 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2021-09-23 16:08:18,304 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2021-09-23 16:08:18,304 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2021-09-23 16:08:18,304 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2021-09-23 16:08:18,648 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp_save
+2021-09-23 16:08:18,757 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp
+2021-09-23 16:08:18,804 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp_save
+2021-09-23 16:08:18,882 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp
+2021-09-23 16:08:18,945 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c_save
+2021-09-23 16:08:19,039 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c
+2021-09-23 16:08:19,054 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h_save
+2021-09-23 16:08:19,132 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h
+2021-09-23 16:08:19,148 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c_save
+2021-09-23 16:08:19,242 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c
+2021-09-23 16:08:19,242 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp_save
+2021-09-23 16:08:19,304 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp
+2021-09-23 16:08:19,320 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-09-23 16:08:19,413 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h
+2021-09-23 16:08:19,460 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h_save
+2021-09-23 16:08:19,554 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h
+2021-09-23 16:08:19,554 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c_save
+2021-09-23 16:08:19,679 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c
+2021-09-23 16:08:20,928 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 234mS.
+2021-09-23 16:08:20,943 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2021-09-23 16:08:21,325 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2021-09-23 16:08:23,871 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2928mS.
+2021-09-23 16:08:23,872 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 16:08:23,877 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 16:31:07,891 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 771491552 Bytes (1065353216)
+2021-09-23 16:31:09,750 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 789727440 Bytes (1065353216)
+2021-09-23 16:31:11,211 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 832308960 Bytes (1065353216)
+2021-09-23 16:31:11,586 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2021-09-23 16:31:11,586 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2021-09-23 16:31:11,586 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2021-09-23 16:31:11,586 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2021-09-23 16:31:11,586 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2021-09-23 16:31:11,914 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp_save
+2021-09-23 16:31:11,976 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp
+2021-09-23 16:31:12,008 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp_save
+2021-09-23 16:31:12,070 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp
+2021-09-23 16:31:12,101 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c_save
+2021-09-23 16:31:12,179 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c
+2021-09-23 16:31:12,195 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h_save
+2021-09-23 16:31:12,257 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h
+2021-09-23 16:31:12,273 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c_save
+2021-09-23 16:31:12,367 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c
+2021-09-23 16:31:12,367 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp_save
+2021-09-23 16:31:12,429 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp
+2021-09-23 16:31:12,445 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-09-23 16:31:12,523 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h
+2021-09-23 16:31:12,570 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h_save
+2021-09-23 16:31:12,648 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h
+2021-09-23 16:31:12,664 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c_save
+2021-09-23 16:31:12,789 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c
+2021-09-23 16:31:13,570 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 157mS.
+2021-09-23 16:31:13,585 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2021-09-23 16:31:14,429 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2021-09-23 16:31:16,475 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2890mS.
+2021-09-23 16:31:16,475 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 16:31:16,475 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 16:59:52,654 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 820349112 Bytes (1073741824)
+2021-09-23 16:59:54,322 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 836588152 Bytes (1073741824)
+2021-09-23 16:59:55,996 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 876443576 Bytes (1073741824)
+2021-09-23 16:59:56,387 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2021-09-23 16:59:56,387 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2021-09-23 16:59:56,387 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2021-09-23 16:59:56,387 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2021-09-23 16:59:56,402 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2021-09-23 16:59:56,746 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp_save
+2021-09-23 16:59:56,808 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp
+2021-09-23 16:59:56,855 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp_save
+2021-09-23 16:59:56,918 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp
+2021-09-23 16:59:56,964 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c_save
+2021-09-23 16:59:57,058 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c
+2021-09-23 16:59:57,058 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h_save
+2021-09-23 16:59:57,136 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h
+2021-09-23 16:59:57,152 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c_save
+2021-09-23 16:59:57,246 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c
+2021-09-23 16:59:57,246 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp_save
+2021-09-23 16:59:57,308 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp
+2021-09-23 16:59:57,324 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-09-23 16:59:57,418 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h
+2021-09-23 16:59:57,464 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h_save
+2021-09-23 16:59:57,542 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h
+2021-09-23 16:59:57,558 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c_save
+2021-09-23 16:59:57,683 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c
+2021-09-23 16:59:58,495 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 171mS.
+2021-09-23 16:59:58,495 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2021-09-23 16:59:59,370 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2021-09-23 17:00:01,385 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2890mS.
+2021-09-23 17:00:01,385 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 17:00:01,385 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 18:34:15,237 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 338934368 Bytes (1073741824)
+2021-09-23 18:34:17,091 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 356537848 Bytes (1073741824)
+2021-09-23 18:34:18,929 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 397673592 Bytes (1073741824)
+2021-09-23 18:34:19,358 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2021-09-23 18:34:19,358 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2021-09-23 18:34:19,358 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2021-09-23 18:34:19,358 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2021-09-23 18:34:19,360 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2021-09-23 18:34:19,681 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp_save
+2021-09-23 18:34:19,740 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\license.tmp
+2021-09-23 18:34:19,780 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp_save
+2021-09-23 18:34:19,849 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\gpio.tmp
+2021-09-23 18:34:19,894 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c_save
+2021-09-23 18:34:19,994 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_it.c
+2021-09-23 18:34:20,003 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h_save
+2021-09-23 18:34:20,086 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_it.h
+2021-09-23 18:34:20,103 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c_save
+2021-09-23 18:34:20,209 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\stm32f1xx_hal_msp.c
+2021-09-23 18:34:20,213 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp_save
+2021-09-23 18:34:20,285 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\MXTmpFiles\system.tmp
+2021-09-23 18:34:20,301 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h_save
+2021-09-23 18:34:20,401 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\stm32f1xx_hal_conf.h
+2021-09-23 18:34:20,445 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h_save
+2021-09-23 18:34:20,532 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Inc\main.h
+2021-09-23 18:34:20,542 [INFO] CodeEngine:239 - oldGeneratedFile, C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c_save
+2021-09-23 18:34:20,671 [INFO] CodeEngine:257 - Generated code: C:\ST\Microcontroller-Microprocessor-Lab\Week1\Week1_Exercises\Core\Src\main.c
+2021-09-23 18:34:21,483 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 172mS.
+2021-09-23 18:34:21,486 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2021-09-23 18:34:22,482 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2021-09-23 18:34:24,655 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 3169mS.
+2021-09-23 18:34:24,656 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 18:34:24,661 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2021-09-23 19:14:27,194 [INFO] Activator:177 - 
+
+
+2021-09-23 19:14:27,194 [INFO] Activator:178 - !SESSION log4j initialized
+2021-09-24 08:50:39,831 [INFO] Activator:177 - 
+
+
+2021-09-24 08:50:39,837 [INFO] Activator:178 - !SESSION log4j initialized
