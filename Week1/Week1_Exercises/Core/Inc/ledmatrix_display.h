@@ -21,4 +21,7 @@ void checksetNOC(void);
 void clearNumberOnClock(int num);
 void checkclearNOC(void);
 
+// Exercise 10
+void runClock(void);
+
 #endif /* INC_LEDMATRIX_DISPLAY_H_ */

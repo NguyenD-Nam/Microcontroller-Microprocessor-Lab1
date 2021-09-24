@@ -10,8 +10,12 @@
 
 
 #define NUMBER_OF_LEDS	12
+#define Clk_delay	1000
 
 static uint8_t ledmatrixVals[NUMBER_OF_LEDS]={0};
+static uint8_t seconds=0;
+static uint8_t minutes=0;
+static uint8_t hours=0;
 
 void update_led_matrix_buffer(void){
 	HAL_GPIO_WritePin(ALL_PORTS, LED_1_Pin, ledmatrixVals[0]);
@@ -46,7 +50,7 @@ void clearAllClock(void){
 
 // Exercise 8
 void setNumberOnClock(int num){
-	clearAllClock();
+//	clearAllClock();
 	ledmatrixVals[num]=1;
 	update_led_matrix_buffer();
 }
@@ -59,7 +63,7 @@ void checksetNOC(void){
 
 // Exercise 9
 void clearNumberOnClock(int num){
-	setAllClock();
+//	setAllClock();
 	ledmatrixVals[num]=0;
 	update_led_matrix_buffer();
 }
@@ -67,5 +71,38 @@ void checkclearNOC(void){
 	for(int i = 0; i < NUMBER_OF_LEDS; i++){
 		clearNumberOnClock(i);
 		HAL_Delay(1000);
+	}
+}
+
+// Exercise 10
+void runClock(void){
+	ledmatrixVals[seconds] = 1;
+	ledmatrixVals[minutes] = 1;
+	ledmatrixVals[hours] = 1;
+	update_led_matrix_buffer();
+	HAL_Delay(Clk_delay);
+
+	while(1){
+		clearAllClock();
+
+		seconds++;
+		if(seconds > 11) {
+			seconds = 0;
+			minutes++;
+		}
+		if(minutes > 11) {
+			minutes = 0;
+			hours++;
+		}
+		if(hours > 11) {
+			hours = 0;
+		}
+
+		ledmatrixVals[seconds] = 1;
+		ledmatrixVals[minutes] = 1;
+		ledmatrixVals[hours] = 1;
+
+		update_led_matrix_buffer();
+		HAL_Delay(Clk_delay);
 	}
 }

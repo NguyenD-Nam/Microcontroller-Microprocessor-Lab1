@@ -94,17 +94,27 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+
 	// Exercise 6 and 7
 //	setAllClock();
 //	HAL_Delay(3000);
 //	clearAllClock();
 //	HAL_Delay(3000);
 
+
 	// Exercise 8
+//	clearAllClock();
 //	checksetNOC();
 
+
 	// Exercise 9
-	checkclearNOC();
+//	setAllClock();
+//	checkclearNOC();
+
+
+	// Exercise 10
+	runClock();
+
     /* USER CODE BEGIN 3 */
 
   }
