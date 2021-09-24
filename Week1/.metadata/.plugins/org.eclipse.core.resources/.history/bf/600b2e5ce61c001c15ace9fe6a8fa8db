@@ -13,8 +13,4 @@ void update_led_matrix_buffer(void);
 void setAllClock(void);
 void clearAllClock(void);
 
-// Exercise 8
-void setNumberOnClock(int num);
-void checksNOC(void);
-
 #endif /* INC_LEDMATRIX_DISPLAY_H_ */

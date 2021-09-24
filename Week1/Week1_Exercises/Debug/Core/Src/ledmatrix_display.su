@@ -1,3 +1,5 @@
-ledmatrix_display.c:16:6:update_led_matrix_buffer	16	static
-ledmatrix_display.c:22:6:setAllClock	16	static
-ledmatrix_display.c:29:6:clearAllClock	16	static
+ledmatrix_display.c:16:6:update_led_matrix_buffer	8	static
+ledmatrix_display.c:35:6:setAllClock	16	static
+ledmatrix_display.c:43:6:clearAllClock	16	static
+ledmatrix_display.c:51:6:setNumberOnClock	16	static
+ledmatrix_display.c:56:6:checksNOC	16	static

@@ -14,18 +14,9 @@
 static uint8_t ledmatrixVals[NUMBER_OF_LEDS]={0};
 
 void update_led_matrix_buffer(void){
-	HAL_GPIO_WritePin(ALL_PORTS, LED_1_Pin, ledmatrixVals[0]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_2_Pin, ledmatrixVals[1]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_3_Pin, ledmatrixVals[2]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_4_Pin, ledmatrixVals[3]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_5_Pin, ledmatrixVals[4]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_6_Pin, ledmatrixVals[5]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_7_Pin, ledmatrixVals[6]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_8_Pin, ledmatrixVals[7]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_9_Pin, ledmatrixVals[8]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_10_Pin, ledmatrixVals[9]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_11_Pin, ledmatrixVals[10]);
-	HAL_GPIO_WritePin(ALL_PORTS, LED_12_Pin, ledmatrixVals[11]);
+	for(int i = 0; i < NUMBER_OF_LEDS; i++){
+		HAL_GPIO_WritePin(ALL_PORTS, LED_1_Pin|LED_2_Pin|LED_3_Pin|LED_4_Pin|LED_5_Pin|LED_6_Pin|LED_7_Pin|LED_8_Pin|LED_9_Pin|LED_10_Pin|LED_11_Pin|LED_12_Pin, ledmatrixVals[i]);
+	}
 }
 
 // Exercise 6
