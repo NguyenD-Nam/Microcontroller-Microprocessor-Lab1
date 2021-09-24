@@ -95,13 +95,13 @@ int main(void)
   {
     /* USER CODE END WHILE */
 	// Exercise 6 and 7
-//	setAllClock();
-//	HAL_Delay(3000);
-//	clearAllClock();
-//	HAL_Delay(3000);
+	setAllClock();
+	HAL_Delay(3000);
+	clearAllClock();
+	HAL_Delay(3000);
 
 	// Exercise 8
-	checksNOC();
+//	checksNOC();
     /* USER CODE BEGIN 3 */
 
   }
