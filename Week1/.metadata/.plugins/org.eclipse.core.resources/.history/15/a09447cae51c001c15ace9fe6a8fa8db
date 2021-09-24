@@ -19,7 +19,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "ledmatrix_display.h"
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -94,10 +94,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	setAllClock();
-	HAL_Delay(3000);
-	clearAllClock();
-	HAL_Delay(3000);
+
     /* USER CODE BEGIN 3 */
 
   }
